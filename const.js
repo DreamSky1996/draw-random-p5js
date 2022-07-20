@@ -1,37 +1,12 @@
 const bgColors = ["#0e1137", "#e58225", "#000000", "#FFFFFF"];
-const outlineColors = [
-  "#010101",
-  "#C1E8F2",
-  "#ECD8DF",
-  "#DFA33F",
-  "#66B032",
-  "#FC600A",
-  "#FE2712",
-  "#FB9902",
-  "#8601AF",
-  "#4424D6",
-];
+const outlineColors = ["#FFFFFF", "#C5E8F3", "#F3E0E8", "#FBB855"];
 const fillColors = [
-  "#010101",
-  "#C0E7F3",
-  "#8FC640",
-  "#F2DDE5",
   "#FFFFFF",
-  "#FBB042",
-  "#ED1C22",
-  "#403F41",
-  "#00FFFF",
-  "#0080FF",
-  "#0000FF",
-  "#8000FF",
-  "#FF00FF",
-  "#FF0080",
-  "#FF0000",
-  "#FF8000",
-  "#FFFF00",
-  "#80FF00",
-  "#00FF00",
-  "#00FF80",
+  "#000000",
+  "#C5E8F3",
+  "#9ACC53",
+  "#F3E0E8",
+  "#FBB855",
 ];
 
 const closedVertexes = [
